@@ -7,16 +7,14 @@
 
 # Site settings
 title: MyBioCaddie
-brief-intro: My Data
+brief-intro: "Nicole's Datasets"
 baseurl: "/mybiocaddie" # the subpath of your site, e.g. /blog
 url: "http://cmungall.github.io/mybiocaddie" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: chrismungall
-github_username:  cmungall
-email: cjmungall@lbl.gov
+github_username:  nicolevasilevsky
 
 collections:
   metadata:
