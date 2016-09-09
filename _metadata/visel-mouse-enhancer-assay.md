@@ -11,7 +11,7 @@ taxa:
  - NCBITaxon:10090
 keywords:
  - Enhancer reporter gene assay
- references:
+references:
   - PMID:18836445
 ---
 
