@@ -13,15 +13,20 @@ keywords:
  - Enhancer reporter gene assay
 references:
   - PMID:18836445
----
-
 Enhancer location: Mouse genome mm9, chr14:47230349-47231452 
-Name: mCF73 
+Enhancer Name: mCF73 
 Vista Enhancer ID: mm387
 Nearest craniofacial gene or locus: BMP4 
 Enhancer expression: positive 
-Tissues where active: branchial arch, facial mesenchyme, nose, limbs, neural tube 
+Tissues where active:
+ - branchial arch
+ - facial mesenchyme
+ - nose
+ - limbs
+ - neural tube 
 Comment on OPT files: slightly damaged embryo 
+---
+
 
 This data set includes the following:
 A .pdf file that summarizes the whole-mount data for the tested element. This file includes light microscopy whole-mount images of the LacZ reporter gene expression in mouse embryos, a summary of the annotation of the expression pattern, the DNA sequence of the tested element in Fasta format, and the sequences of the primers used to generate the test construct. Follow corresponding link in the External References section to see this information in the Vista Enhancer Browser at Lawrence Berkeley Laboratory
