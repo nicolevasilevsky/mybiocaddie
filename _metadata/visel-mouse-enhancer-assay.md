@@ -4,8 +4,8 @@ index: biocaddie
 type: http://purl.org/dc/dcmitype/Dataset
 title: Visel Mouse Enhancer Assay
 identifier: FB00000169
-date: ‘2016-09-09’
-accessURL: https://www.facebase.org/data/record/#1/legacy:dataset/id=4277
+date: 2016-09-09
+accessURL: "https://www.facebase.org/data/record/#1/legacy:dataset/id=4277"
 page: https://www.facebase.org/
 taxa:
  - NCBITaxon:10090
@@ -14,6 +14,7 @@ keywords:
  references:
   - PMID:18836445
 ---
+
 Enhancer location: Mouse genome mm9, chr14:47230349-47231452 
 Name: mCF73 
 Vista Enhancer ID: mm387
